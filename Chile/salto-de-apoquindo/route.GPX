@@ -4,15 +4,13 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2020-04-21T02:32:51Z</time>
+    <time>2020-06-13T21:42:25Z</time>
     <bounds maxlat="-33.433585166931152" maxlon="-70.460831271484494" minlat="-33.443949222564697" minlon="-70.518686771392822"/>
   </metadata>
   <wpt lat="-33.436803231015801" lon="-70.492831785231829">
-    <ele>1057.72265625</ele>
+    <ele>1058</ele>
     <time>2020-04-21T00:21:55Z</time>
     <name>Los Peumos</name>
-    <cmt>Los Peumos</cmt>
-    <desc>Los Peumos</desc>
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
@@ -28,11 +26,9 @@
     </extensions>
   </wpt>
   <wpt lat="-33.436176180839539" lon="-70.500818146392703">
-    <ele>1023.6015625</ele>
+    <ele>1024</ele>
     <time>2020-04-21T00:21:28Z</time>
     <name>Mirador Altas Cumbres</name>
-    <cmt>Mirador Altas Cumbres</cmt>
-    <desc>Mirador Altas Cumbres</desc>
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
@@ -48,11 +44,9 @@
     </extensions>
   </wpt>
   <wpt lat="-33.43767486512661" lon="-70.475209336727858">
-    <ele>1397.58203125</ele>
+    <ele>1398</ele>
     <time>2020-04-21T00:58:42Z</time>
     <name>Mirador Del Encañado</name>
-    <cmt>Mirador Del Encañado</cmt>
-    <desc>Mirador Del Encañado</desc>
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
@@ -68,13 +62,11 @@
     </extensions>
   </wpt>
   <wpt lat="-33.433735370635986" lon="-70.518686771392822">
-    <ele>831.24609375</ele>
+    <ele>831</ele>
     <time>2020-04-21T00:20:24Z</time>
-    <name>Parking</name>
-    <cmt>Parking
-La Reina, Provincia de Santiago, Chile</cmt>
-    <desc>Parking
-La Reina, Provincia de Santiago, Chile</desc>
+    <name>Parking Aguas de Ramon</name>
+    <cmt>La Reina, Provincia de Santiago, Chile</cmt>
+    <desc>La Reina, Provincia de Santiago, Chile</desc>
     <sym>Parking Area</sym>
     <type>user</type>
     <extensions>
@@ -103,8 +95,6 @@ La Reina, Provincia de Santiago, Chile</desc>
     <ele>1064</ele>
     <time>2020-04-21T00:49:44Z</time>
     <name>Puente</name>
-    <cmt>Puente</cmt>
-    <desc>Puente</desc>
     <sym>Bridge</sym>
     <type>user</type>
     <extensions>
@@ -123,8 +113,6 @@ La Reina, Provincia de Santiago, Chile</desc>
     <ele>1631</ele>
     <time>2020-04-21T00:59:31Z</time>
     <name>Salto de Apoquindo</name>
-    <cmt>Salto de Apoquindo</cmt>
-    <desc>Salto de Apoquindo</desc>
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
@@ -140,8 +128,10 @@ La Reina, Provincia de Santiago, Chile</desc>
     </extensions>
   </wpt>
   <rte>
-    <name>Route Salto de Apoquindo</name>
-    <desc>created by https://github.com/gabamnml/compass</desc>
+    <name>Salto de Apoquindo</name>
+    <desc>created by gabamnml
+https://github.com/gabamnml/compass</desc>
+    <link href="https://github.com/gabamnml/compass"/>
     <extensions>
       <gpxx:RouteExtension>
         <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
@@ -152,13 +142,11 @@ La Reina, Provincia de Santiago, Chile</desc>
       </trp:Trip>
     </extensions>
     <rtept lat="-33.433735370635986" lon="-70.518686771392822">
-      <ele>831.24609375</ele>
+      <ele>831</ele>
       <time>2020-04-21T00:20:24Z</time>
-      <name>Parking</name>
-      <cmt>Parking
-La Reina, Provincia de Santiago, Chile</cmt>
-      <desc>Parking
-La Reina, Provincia de Santiago, Chile</desc>
+      <name>Parking Aguas de Ramon</name>
+      <cmt>La Reina, Provincia de Santiago, Chile</cmt>
+      <desc>La Reina, Provincia de Santiago, Chile</desc>
       <sym>Parking Area</sym>
       <extensions>
         <trp:ViaPoint>
@@ -314,11 +302,9 @@ La Reina, Provincia de Santiago, Chile</desc>
       </extensions>
     </rtept>
     <rtept lat="-33.436176180839539" lon="-70.500818146392703">
-      <ele>1023.6015625</ele>
+      <ele>1024</ele>
       <time>2020-04-21T00:21:28Z</time>
       <name>Mirador Altas Cumbres</name>
-      <cmt>Mirador Altas Cumbres</cmt>
-      <desc>Mirador Altas Cumbres</desc>
       <sym>Scenic Area</sym>
       <extensions>
         <trp:ViaPoint>
@@ -409,11 +395,9 @@ La Reina, Provincia de Santiago, Chile</desc>
       </extensions>
     </rtept>
     <rtept lat="-33.436803231015801" lon="-70.492831785231829">
-      <ele>1057.72265625</ele>
+      <ele>1058</ele>
       <time>2020-04-21T00:21:55Z</time>
       <name>Los Peumos</name>
-      <cmt>Los Peumos</cmt>
-      <desc>Los Peumos</desc>
       <sym>Scenic Area</sym>
       <extensions>
         <trp:ViaPoint>
@@ -439,8 +423,6 @@ La Reina, Provincia de Santiago, Chile</desc>
       <ele>1064</ele>
       <time>2020-04-21T00:49:44Z</time>
       <name>Puente</name>
-      <cmt>Puente</cmt>
-      <desc>Puente</desc>
       <sym>Bridge</sym>
       <extensions>
         <trp:ViaPoint>
@@ -591,11 +573,9 @@ La Reina, Provincia de Santiago, Chile</desc>
       </extensions>
     </rtept>
     <rtept lat="-33.43767486512661" lon="-70.475209336727858">
-      <ele>1397.58203125</ele>
+      <ele>1398</ele>
       <time>2020-04-21T00:58:42Z</time>
       <name>Mirador Del Encañado</name>
-      <cmt>Mirador Del Encañado</cmt>
-      <desc>Mirador Del Encañado</desc>
       <sym>Scenic Area</sym>
       <extensions>
         <trp:ViaPoint>
@@ -788,8 +768,6 @@ La Reina, Provincia de Santiago, Chile</desc>
       <ele>1631</ele>
       <time>2020-04-21T00:59:31Z</time>
       <name>Salto de Apoquindo</name>
-      <cmt>Salto de Apoquindo</cmt>
-      <desc>Salto de Apoquindo</desc>
       <sym>Scenic Area</sym>
       <extensions>
         <trp:ViaPoint>

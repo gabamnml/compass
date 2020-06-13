@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1" creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2020-06-13T21:37:41Z</time>
+    <bounds maxlat="-33.350715637207031" maxlon="-70.564257418736815" minlat="-33.361675813794136" minlon="-70.582222938537598"/>
+  </metadata>
+  <wpt lat="-33.350801467895508" lon="-70.582222938537598">
+    <ele>1604.359375</ele>
+    <time>2020-06-13T19:25:52Z</time>
+    <name>Cerro Manquehue</name>
+    <cmt>Cerro Manquehue
+Vitacura, Provincia de Santiago, CHL</cmt>
+    <desc>Cerro Manquehue
+Vitacura, Provincia de Santiago, CHL</desc>
+    <sym>Summit</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:City>Vitacura</gpxx:City>
+          <gpxx:State>Provincia de Santiago</gpxx:State>
+          <gpxx:Country>CHL</gpxx:Country>
+        </gpxx:Address>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:City>Vitacura</wptx1:City>
+          <wptx1:State>Provincia de Santiago</wptx1:State>
+          <wptx1:Country>CHL</wptx1:Country>
+        </wptx1:Address>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-06-13T19:25:52Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="-33.361675813794136" lon="-70.564257418736815">
+    <ele>1057</ele>
+    <time>2020-06-13T19:39:31Z</time>
+    <name>Parking Manquehue</name>
+    <cmt>A cumbre Manquehue por Vía Roja</cmt>
+    <desc>A cumbre Manquehue por Vía Roja</desc>
+    <sym>Parking Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-06-13T19:39:31Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <rte>
+    <name>Cerro Manquehue</name>
+    <desc>created by gabamnml</desc>
+    <link href="https://github.com/gabamnml/compass"/>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+      <trp:Trip>
+        <trp:TransportationMode>Hiking</trp:TransportationMode>
+      </trp:Trip>
+    </extensions>
+    <rtept lat="-33.361675813794136" lon="-70.564257418736815">
+      <ele>1057</ele>
+      <time>2020-06-13T19:39:31Z</time>
+      <name>Parking Manquehue</name>
+      <cmt>A cumbre Manquehue por Vía Roja</cmt>
+      <desc>A cumbre Manquehue por Vía Roja</desc>
+      <sym>Parking Area</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:ElevationMode>Standard</trp:ElevationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>06000551C5010B00D4020DE8CD00B2462AD2</gpxx:Subclass>
+          <gpxx:rpt lat="-33.361659049987793" lon="-70.564284324645996">
+            <gpxx:Subclass>06000551C50145A30200211600004E000000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="-33.361659049987793" lon="-70.564284324645996"/>
+          <gpxx:rpt lat="-33.361659049987793" lon="-70.564284324645996"/>
+          <gpxx:rpt lat="-33.361659049987793" lon="-70.564284324645996"/>
+          <gpxx:rpt lat="-33.361659049987793" lon="-70.564284324645996">
+            <gpxx:Subclass>16000551C501CEC90B001F001A00EDDE1002</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="-33.361659049987793" lon="-70.564284324645996"/>
+          <gpxx:rpt lat="-33.361530303955078" lon="-70.564477443695068"/>
+          <gpxx:rpt lat="-33.361358642578125" lon="-70.564563274383545"/>
+          <gpxx:rpt lat="-33.36122989654541" lon="-70.564842224121094"/>
+          <gpxx:rpt lat="-33.361058235168457" lon="-70.565314292907715"/>
+          <gpxx:rpt lat="-33.360822200775146" lon="-70.565550327301025"/>
+          <gpxx:rpt lat="-33.360650539398193" lon="-70.565872192382812"/>
+          <gpxx:rpt lat="-33.360264301300049" lon="-70.566000938415527"/>
+          <gpxx:rpt lat="-33.360092639923096" lon="-70.56617259979248"/>
+          <gpxx:rpt lat="-33.359835147857666" lon="-70.566215515136719"/>
+          <gpxx:rpt lat="-33.359749317169189" lon="-70.566730499267578"/>
+          <gpxx:rpt lat="-33.359642028808594" lon="-70.56694507598877"/>
+          <gpxx:rpt lat="-33.359534740447998" lon="-70.567352771759033"/>
+          <gpxx:rpt lat="-33.359341621398926" lon="-70.567653179168701"/>
+          <gpxx:rpt lat="-33.359277248382568" lon="-70.567846298217773"/>
+          <gpxx:rpt lat="-33.359277248382568" lon="-70.568017959594727"/>
+          <gpxx:rpt lat="-33.359148502349854" lon="-70.56818962097168"/>
+          <gpxx:rpt lat="-33.358912467956543" lon="-70.568404197692871"/>
+          <gpxx:rpt lat="-33.358762264251709" lon="-70.568661689758301"/>
+          <gpxx:rpt lat="-33.358526229858398" lon="-70.569219589233398"/>
+          <gpxx:rpt lat="-33.358418941497803" lon="-70.569326877593994"/>
+          <gpxx:rpt lat="-33.358333110809326" lon="-70.569498538970947"/>
+          <gpxx:rpt lat="-33.358268737792969" lon="-70.569734573364258"/>
+          <gpxx:rpt lat="-33.358139991760254" lon="-70.570034980773926"/>
+          <gpxx:rpt lat="-33.357968330383301" lon="-70.570163726806641"/>
+          <gpxx:rpt lat="-33.357882499694824" lon="-70.57042121887207"/>
+          <gpxx:rpt lat="-33.357946872711182" lon="-70.570764541625977"/>
+          <gpxx:rpt lat="-33.357818126678467" lon="-70.57093620300293"/>
+          <gpxx:rpt lat="-33.357775211334229" lon="-70.57117223739624"/>
+          <gpxx:rpt lat="-33.357388973236084" lon="-70.571472644805908"/>
+          <gpxx:rpt lat="-33.35723876953125" lon="-70.571751594543457"/>
+          <gpxx:rpt lat="-33.356659412384033" lon="-70.572073459625244"/>
+          <gpxx:rpt lat="-33.356595039367676" lon="-70.572073459625244"/>
+          <gpxx:rpt lat="-33.355886936187744" lon="-70.57267427444458"/>
+          <gpxx:rpt lat="-33.355779647827148" lon="-70.572824478149414"/>
+          <gpxx:rpt lat="-33.355393409729004" lon="-70.573039054870605"/>
+          <gpxx:rpt lat="-33.355329036712646" lon="-70.573081970214844"/>
+          <gpxx:rpt lat="-33.355286121368408" lon="-70.573124885559082"/>
+          <gpxx:rpt lat="-33.355135917663574" lon="-70.573339462280273"/>
+          <gpxx:rpt lat="-33.35474967956543" lon="-70.573511123657227"/>
+          <gpxx:rpt lat="-33.3544921875" lon="-70.573532581329346">
+            <gpxx:Subclass>16000551C501CEC90B002114000000000000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="-33.3544921875" lon="-70.573532581329346">
+            <gpxx:Subclass>1600F850C5013E2104001F00040062EDC001</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="-33.3544921875" lon="-70.573532581329346"/>
+          <gpxx:rpt lat="-33.354299068450928" lon="-70.573554039001465"/>
+          <gpxx:rpt lat="-33.354041576385498" lon="-70.573725700378418"/>
+          <gpxx:rpt lat="-33.353934288024902" lon="-70.573811531066895"/>
+          <gpxx:rpt lat="-33.353848457336426" lon="-70.573897361755371"/>
+          <gpxx:rpt lat="-33.353698253631592" lon="-70.574240684509277"/>
+          <gpxx:rpt lat="-33.353526592254639" lon="-70.574498176574707"/>
+          <gpxx:rpt lat="-33.353204727172852" lon="-70.574712753295898"/>
+          <gpxx:rpt lat="-33.353075981140137" lon="-70.574841499328613"/>
+          <gpxx:rpt lat="-33.352968692779541" lon="-70.574970245361328"/>
+          <gpxx:rpt lat="-33.352775573730469" lon="-70.575056076049805"/>
+          <gpxx:rpt lat="-33.352625370025635" lon="-70.575356483459473"/>
+          <gpxx:rpt lat="-33.352539539337158" lon="-70.575377941131592"/>
+          <gpxx:rpt lat="-33.352475166320801" lon="-70.575656890869141"/>
+          <gpxx:rpt lat="-33.35249662399292" lon="-70.575850009918213"/>
+          <gpxx:rpt lat="-33.352410793304443" lon="-70.575978755950928"/>
+          <gpxx:rpt lat="-33.352217674255371" lon="-70.576021671295166"/>
+          <gpxx:rpt lat="-33.352088928222656" lon="-70.576364994049072"/>
+          <gpxx:rpt lat="-33.351960182189941" lon="-70.57642936706543"/>
+          <gpxx:rpt lat="-33.351960182189941" lon="-70.576515197753906"/>
+          <gpxx:rpt lat="-33.351852893829346" lon="-70.576493740081787"/>
+          <gpxx:rpt lat="-33.351895809173584" lon="-70.576558113098145"/>
+          <gpxx:rpt lat="-33.351852893829346" lon="-70.576622486114502"/>
+          <gpxx:rpt lat="-33.351895809173584" lon="-70.576622486114502"/>
+          <gpxx:rpt lat="-33.351767063140869" lon="-70.576686859130859"/>
+          <gpxx:rpt lat="-33.351724147796631" lon="-70.576815605163574"/>
+          <gpxx:rpt lat="-33.351767063140869" lon="-70.576858520507812"/>
+          <gpxx:rpt lat="-33.351681232452393" lon="-70.57692289352417"/>
+          <gpxx:rpt lat="-33.35174560546875" lon="-70.576987266540527"/>
+          <gpxx:rpt lat="-33.35174560546875" lon="-70.577116012573242"/>
+          <gpxx:rpt lat="-33.351681232452393" lon="-70.57715892791748"/>
+          <gpxx:rpt lat="-33.351702690124512" lon="-70.5771803855896"/>
+          <gpxx:rpt lat="-33.351659774780273" lon="-70.577244758605957"/>
+          <gpxx:rpt lat="-33.35174560546875" lon="-70.57741641998291"/>
+          <gpxx:rpt lat="-33.351702690124512" lon="-70.577459335327148"/>
+          <gpxx:rpt lat="-33.351724147796631" lon="-70.577480792999268"/>
+          <gpxx:rpt lat="-33.351702690124512" lon="-70.577609539031982"/>
+          <gpxx:rpt lat="-33.351767063140869" lon="-70.57767391204834"/>
+          <gpxx:rpt lat="-33.351767063140869" lon="-70.577824115753174"/>
+          <gpxx:rpt lat="-33.351724147796631" lon="-70.57793140411377"/>
+          <gpxx:rpt lat="-33.351724147796631" lon="-70.578060150146484"/>
+          <gpxx:rpt lat="-33.351659774780273" lon="-70.578145980834961"/>
+          <gpxx:rpt lat="-33.351681232452393" lon="-70.578317642211914"/>
+          <gpxx:rpt lat="-33.351638317108154" lon="-70.578403472900391"/>
+          <gpxx:rpt lat="-33.35174560546875" lon="-70.578832626342773"/>
+          <gpxx:rpt lat="-33.351724147796631" lon="-70.578939914703369"/>
+          <gpxx:rpt lat="-33.351659774780273" lon="-70.579047203063965"/>
+          <gpxx:rpt lat="-33.351702690124512" lon="-70.579090118408203"/>
+          <gpxx:rpt lat="-33.351616859436035" lon="-70.579390525817871"/>
+          <gpxx:rpt lat="-33.351681232452393" lon="-70.579519271850586"/>
+          <gpxx:rpt lat="-33.351573944091797" lon="-70.579648017883301"/>
+          <gpxx:rpt lat="-33.351616859436035" lon="-70.579776763916016"/>
+          <gpxx:rpt lat="-33.351466655731201" lon="-70.579948425292969"/>
+          <gpxx:rpt lat="-33.351466655731201" lon="-70.580120086669922"/>
+          <gpxx:rpt lat="-33.351337909698486" lon="-70.580227375030518"/>
+          <gpxx:rpt lat="-33.351316452026367" lon="-70.580399036407471"/>
+          <gpxx:rpt lat="-33.351209163665771" lon="-70.580527782440186"/>
+          <gpxx:rpt lat="-33.351080417633057" lon="-70.580570697784424"/>
+          <gpxx:rpt lat="-33.350844383239746" lon="-70.580956935882568"/>
+          <gpxx:rpt lat="-33.350715637207031" lon="-70.581214427947998"/>
+          <gpxx:rpt lat="-33.350715637207031" lon="-70.581514835357666"/>
+          <gpxx:rpt lat="-33.35073709487915" lon="-70.581686496734619"/>
+          <gpxx:rpt lat="-33.350801467895508" lon="-70.581858158111572"/>
+          <gpxx:rpt lat="-33.350801467895508" lon="-70.581943988800049"/>
+          <gpxx:rpt lat="-33.350780010223389" lon="-70.582051277160645"/>
+          <gpxx:rpt lat="-33.35073709487915" lon="-70.582072734832764">
+            <gpxx:Subclass>1600F850C501F61D02001F06040038EC0500</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="-33.35073709487915" lon="-70.582072734832764"/>
+          <gpxx:rpt lat="-33.35075855255127" lon="-70.582201480865479"/>
+          <gpxx:rpt lat="-33.350758217275143" lon="-70.582202486693859">
+            <gpxx:Subclass>1600F850C501F61D020021170000DB000500</gpxx:Subclass>
+          </gpxx:rpt>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-33.350801467895508" lon="-70.582222938537598">
+      <ele>1604.359375</ele>
+      <time>2020-06-13T19:25:52Z</time>
+      <name>Cerro Manquehue</name>
+      <cmt>Cerro Manquehue
+Vitacura, Provincia de Santiago, CHL</cmt>
+      <desc>Cerro Manquehue
+Vitacura, Provincia de Santiago, CHL</desc>
+      <sym>Summit</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:ElevationMode>Standard</trp:ElevationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>66B000906B050100D9021200000000000000</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+</gpx>
