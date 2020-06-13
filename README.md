@@ -4,7 +4,7 @@
 
 ### Chile
 [Salto de Apoquindo](https://github.com/gabamnml/compass/tree/master/Chile/salto-de-apoquindo)
-
+[Cerro Manquehue](https://github.com/gabamnml/compass/tree/master/Chile/cerro-manquehue)
 
 
 
